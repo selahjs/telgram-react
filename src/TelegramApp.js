@@ -363,6 +363,12 @@ class TelegramApp extends Component {
                 onDrop={this.handleDrop}
                 // onKeyDown={KeyboardManager.handleKeyDown} tabIndex={-1}
             >
+                <div style={{ textAlign: 'center', padding: '20px' }}>
+                    Telegram Client Built with react js by 
+                    <a href='https://selahadinj.netlify.app/' style={{ textDecoration: 'none' }}>
+                        {' '}Selahadin Jemal
+                    </a>
+                </div>
                 {page}
                 <Dialog
                     manager={modalManager}
