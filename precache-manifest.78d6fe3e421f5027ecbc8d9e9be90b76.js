@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da7a3014079d82189e9be2050d701ac6",
+    "revision": "417974737e6113fa43d1332a839d94ef",
     "url": "/telgram-react/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telgram-react/static/css/7.751a6c49.chunk.css"
   },
   {
-    "revision": "74ca294df5a15d18a80e",
+    "revision": "a6ab6a69f465319ff9a1",
     "url": "/telgram-react/static/css/main.162c7196.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/telgram-react/static/js/7.caa38765.chunk.js"
   },
   {
-    "revision": "74ca294df5a15d18a80e",
-    "url": "/telgram-react/static/js/main.b99efb06.chunk.js"
+    "revision": "a6ab6a69f465319ff9a1",
+    "url": "/telgram-react/static/js/main.38354227.chunk.js"
   },
   {
     "revision": "3a049a528503eea37397",
